@@ -28,8 +28,7 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 Changes
 
-Bug Fixes
-- Fixes typo in the tilt rotor engines that prevented them from using Atmosphere in electric mode.
+- Updated the B2 Rover Port to include 2 new part variants, enabling it to be used with Size 1 parts.
 
 ---ACKNOWLEDGEMENTS
 
